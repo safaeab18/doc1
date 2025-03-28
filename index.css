@@ -160,7 +160,7 @@ justify-content: center;
 gap: 20px;
 
 margin-top: 50px;
-margin-left: 100px;
+margin-left: 50px;
 margin-bottom: 100px;
 
 }
@@ -168,8 +168,8 @@ margin-bottom: 100px;
     margin-top: 50px;
 }
 .re{
-    height: 200px;
-    width: 350px;
+    height: 180px;
+    width: 310px;
     border-radius: 2%;
     background-color: dimgray;
     background-size: cover;
@@ -178,8 +178,8 @@ margin-bottom: 100px;
    
 }
 .re img{
-     height: 200px;
-    width:350px;
+     height: 180px;
+    width:310px;
     border-radius: 2%;
 }
 
